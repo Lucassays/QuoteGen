@@ -20,7 +20,7 @@
     self.myQuotes=@[
                     @"I'll be back baby!",
                     @"事與願違,才是人生!!",
-                    
+                    @"褲子脫掉,嘴巴張開!",
                     
                     ];
     NSString *plistCatPath=[[NSBundle mainBundle] pathForResource:@"quotes" ofType:@"plist"];
