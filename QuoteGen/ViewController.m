@@ -20,7 +20,6 @@
     self.myQuotes=@[
                     @"I'll be back baby!",
                     @"事與願違,才是人生!!",
-                    @"阿中他老婆要自殺啦!",
                     
                     
                     ];
