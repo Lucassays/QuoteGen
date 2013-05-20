@@ -18,6 +18,7 @@
 		A0E9D8E117490862000CE20A /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = A0E9D8E017490862000CE20A /* Default-568h@2x.png */; };
 		A0E9D8E417490862000CE20A /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A0E9D8E217490862000CE20A /* MainStoryboard.storyboard */; };
 		A0E9D8E717490862000CE20A /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A0E9D8E617490862000CE20A /* ViewController.m */; };
+		A0E9D8EE1749258F000CE20A /* quotes.plist in Resources */ = {isa = PBXBuildFile; fileRef = A0E9D8ED1749258F000CE20A /* quotes.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +38,7 @@
 		A0E9D8E317490862000CE20A /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
 		A0E9D8E517490862000CE20A /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		A0E9D8E617490862000CE20A /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		A0E9D8ED1749258F000CE20A /* quotes.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = quotes.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -89,6 +91,7 @@
 				A0E9D8E517490862000CE20A /* ViewController.h */,
 				A0E9D8E617490862000CE20A /* ViewController.m */,
 				A0E9D8D117490862000CE20A /* Supporting Files */,
+				A0E9D8ED1749258F000CE20A /* quotes.plist */,
 			);
 			path = QuoteGen;
 			sourceTree = "<group>";
@@ -163,6 +166,7 @@
 				A0E9D8DF17490862000CE20A /* Default@2x.png in Resources */,
 				A0E9D8E117490862000CE20A /* Default-568h@2x.png in Resources */,
 				A0E9D8E417490862000CE20A /* MainStoryboard.storyboard in Resources */,
+				A0E9D8EE1749258F000CE20A /* quotes.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
